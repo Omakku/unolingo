@@ -5,7 +5,7 @@
       <meta charset="utf-8" />
       <title> Unolingo Landing/Login </title>
 
-      <link href="index.css" rel="stylesheet" />
+      <link href="public/css/index.css" rel="stylesheet" />
 
       <link rel="preconnect" href="https://fonts.googleapis.com">
       <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -20,16 +20,16 @@
    </head>
 
    <body class="container">
-         <form class ="centerform" id="login">      
+         <form class ="centerform" id="login" action="" method="POST">      
             <h1>Login</h1>
 
             <div class="inputWithIcon">
-               <input type="text" placeholder="Enter Username" >
+               <input type="text" placeholder="Enter Username" name="username" >
                <i class="fa-solid fa-user"></i>
              </div>
 
              <div class="inputWithIcon">
-               <input type="password" name="" placeholder="Enter Password">
+               <input type="password" name="" placeholder="Enter Password" name="password">
                <i class="fa-solid fa-lock"></i>
             </div>
 
