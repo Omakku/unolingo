@@ -14,6 +14,20 @@ html{
     font-family: 'Arimo', sans-serif;
 }
 
+header{
+    position: fixed;
+    top: 50px;
+    font-size: 100px;
+    color: aliceblue;
+    opacity: 70%;
+    font-family: 'Arimo', sans-serif;
+}
+
+h2{
+    font-size: 40px;
+    font-family:'Raleway', sans-serif;
+}
+
 /*Main Box*/
 .centerform{
     height: 450px;
@@ -33,8 +47,8 @@ html{
     padding: 10px;
 }
 .inputWithIcon i{
-    position:absolute;
-    left: 835px;
+    position: relative;
+    right: 245px;
     color: gray;
 }
 
@@ -99,6 +113,14 @@ input[type="text"], input[type="password"], input[type="email"]{
     border-radius: 5px;
 }
 
+/* Not a member & already a member text */
+#bottom{
+    padding-top: 20px;
+    text-align: center;
+    color: darkgrey;
+    font-size: 14px;
+}
+
 /* Sign up now link */
 #login a, #signup a{
     text-decoration: none;
@@ -108,12 +130,4 @@ input[type="text"], input[type="password"], input[type="email"]{
 }
 #login a:hover, #signup a:hover{
     color:brown;
-}
-
-/* Not a member & already a member text */
-footer{
-    position: absolute;
-    bottom: 30%;
-    color: darkgrey;
-    font-size: 14px;
 }
