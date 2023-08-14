@@ -1,0 +1,82 @@
+[
+  {
+    "question": "How do you say 'newspaper'?",
+    "choice1": "bola",
+    "choice2": "jornal",
+    "choice3": "ovo",
+    "choice4": "gato",
+    "answer": 2
+  },
+  {
+    "question": "How do you say 'ball'?",
+    "choice1": "bola",
+    "choice2": "jornal",
+    "choice3": "ovo",
+    "choice4": "homem",
+    "answer": 1
+  },
+  {
+    "question": "How do you say 'bread'?",
+    "choice1": "pão",
+    "choice2": "bola",
+    "choice3": "mulher",
+    "choice4": "ovo",
+    "answer": 1
+  },
+  {
+    "question": "How do you say 'he'?",
+    "choice1": "ele",
+    "choice2": "ela",
+    "choice3": "homem",
+    "choice4": "eu",
+    "answer": 1
+  },
+  {
+    "question": "How do you say 'red'?",
+    "choice1": "vermelho",
+    "choice2": "azul",
+    "choice3": "verde",
+    "choice4": "branco",
+    "answer": 1
+  },
+  {
+    "question": "How do you say 'newspaper'?",
+    "choice1": "bola",
+    "choice2": "jornal",
+    "choice3": "ovo",
+    "choice4": "gato",
+    "answer": 2
+  },
+  {
+    "question": "How do you say 'ball'?",
+    "choice1": "bola",
+    "choice2": "jornal",
+    "choice3": "ovo",
+    "choice4": "homem",
+    "answer": 1
+  },
+  {
+    "question": "How do you say 'bread'?",
+    "choice1": "pão",
+    "choice2": "bola",
+    "choice3": "mulher",
+    "choice4": "ovo",
+    "answer": 1
+  },
+  {
+    "question": "How do you say 'he'?",
+    "choice1": "ele",
+    "choice2": "ela",
+    "choice3": "homem",
+    "choice4": "eu",
+    "answer": 1
+  },
+  {
+    "question": "How do you say 'red'?",
+    "choice1": "vermelho",
+    "choice2": "azul",
+    "choice3": "verde",
+    "choice4": "branco",
+    "answer": 1
+  }
+]

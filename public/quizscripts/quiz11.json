@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Say 'I drink water everyday'",
+    "choice1": "Eu bebo água todos os dias",
+    "choice2": "Eu leite água todos os dias",
+    "choice3": "Eu como laranjas todos os dias",
+    "choice4": "Eu como ovos todos os dias",
+    "answer": 1
+  },
+  {
+    "question": "Say 'Hello, I am...' in portuguese ",
+    "choice1": "Olá, eu sou...",
+    "choice2": "Tchau, eu sou...",
+    "choice3": "Sim, eu sou...",
+    "choice4": "Sim, ele vai...",
+    "answer": 1
+  },
+  {
+    "question": "Say 'sorry' in portuguese",
+    "choice1": "desculpa",
+    "choice2": "por que",
+    "choice3": "ta muito bom",
+    "choice4": "então",
+    "answer": 1
+  },
+  {
+    "question": "Translate 'Desculpa, eu sou' to english",
+    "choice1": "She is sorry",
+    "choice2": "He is soeey",
+    "choice3": "Why are you sorry",
+    "choice4": "I eat oranges",
+    "answer": 4
+  },
+  {
+    "question": "How do you say 'speak' in portugese?",
+    "choice1": "Falar",
+    "choice2": "Somos",
+    "choice3": "Verde",
+    "choice4": "Sou",
+    "answer": 1
+  },
+  {
+    "question": "Say 'I drink water everyday'",
+    "choice1": "Eu bebo água todos os dias",
+    "choice2": "Eu leite água todos os dias",
+    "choice3": "Eu como laranjas todos os dias",
+    "choice4": "Eu como ovos todos os dias",
+    "answer": 1
+  },
+  {
+    "question": "Say 'Hello, I am...' in portuguese ",
+    "choice1": "Olá, eu sou...",
+    "choice2": "Tchau, eu sou...",
+    "choice3": "Sim, eu sou...",
+    "choice4": "Sim, ele vai...",
+    "answer": 1
+  },
+  {
+    "question": "Say 'sorry' in portuguese",
+    "choice1": "desculpa",
+    "choice2": "por que",
+    "choice3": "ta muito bom",
+    "choice4": "então",
+    "answer": 1
+  },
+  {
+    "question": "Translate 'Desculpa, eu sou' to english",
+    "choice1": "She is sorry",
+    "choice2": "He is sorryy",
+    "choice3": "Why are you sorry",
+    "choice4": "I eat oranges",
+    "answer": 4
+  },
+  {
+    "question": "How do you say 'speak' in portugese?",
+    "choice1": "Falar",
+    "choice2": "Somos",
+    "choice3": "Verde",
+    "choice4": "Sou",
+    "answer": 1
+  }
+]

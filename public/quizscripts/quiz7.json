@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Greet someone! Say 'hi!'",
+    "choice1": "oi!",
+    "choice2": "ciao!",
+    "choice3": "tchau",
+    "choice4": "Bem-vindo",
+    "answer": 2
+  },
+  {
+    "question": "How do you say 'Good morning'?",
+    "choice1": "Bom dia",
+    "choice2": "Boa noite",
+    "choice3": "Boa tarde",
+    "choice4": "Eu vou",
+    "answer": 1
+  },
+  {
+    "question": "How do you say 'Yes'?",
+    "choice1": "Não",
+    "choice2": "Sim",
+    "choice3": "Tchau",
+    "choice4": "Amigo",
+    "answer": 2
+  },
+  {
+    "question": "How do you say 'No'?",
+    "choice1": "Não",
+    "choice2": "Sim",
+    "choice3": "Eu",
+    "choice4": "Gato",
+    "answer": 1
+  },
+  {
+    "question": "How do you say 'I am not'?",
+    "choice1": "eu não sou",
+    "choice2": "eu não posso",
+    "choice3": "ele tem um gato",
+    "choice4": "ela tem um menino",
+    "answer": 1
+  },
+  {
+    "question": "Greet someone! Say 'hi!'",
+    "choice1": "oi!",
+    "choice2": "ciao!",
+    "choice3": "tchau",
+    "choice4": "Bem-vindo",
+    "answer": 2
+  },
+  {
+    "question": "How do you say 'Good morning'?",
+    "choice1": "Bom dia",
+    "choice2": "Boa noite",
+    "choice3": "Boa tarde",
+    "choice4": "Eu vou",
+    "answer": 1
+  },
+  {
+    "question": "How do you say 'Yes'?",
+    "choice1": "Não",
+    "choice2": "Sim",
+    "choice3": "Tchau",
+    "choice4": "Amigo",
+    "answer": 2
+  },
+  {
+    "question": "How do you say 'No'?",
+    "choice1": "Não",
+    "choice2": "Sim",
+    "choice3": "Eu",
+    "choice4": "Gato",
+    "answer": 1
+  },
+  {
+    "question": "How do you say 'I am not'?",
+    "choice1": "eu não sou",
+    "choice2": "eu não posso",
+    "choice3": "ele tem um gato",
+    "choice4": "ela tem um menino",
+    "answer": 1
+  }
+]

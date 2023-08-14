@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Translate 'azul' to english.",
+    "choice1": "red",
+    "choice2": "blue",
+    "choice3": "dog",
+    "choice4": "ball",
+    "answer": 2
+  },
+  {
+    "question": "How do you say 'he is'",
+    "choice1": "ele é",
+    "choice2": "ela é",
+    "choice3": "nao sou",
+    "choice4": "a bola",
+    "answer": 1
+  },
+  {
+    "question": "Fill in the blank 'Ela é __'      (She is a woman, in english)",
+    "choice1": "uma mulher",
+    "choice2": "um homem",
+    "choice3": "uma cebola",
+    "choice4": "um carro",
+    "answer": 1
+  },
+  {
+    "question": "How do you say 'I am green'",
+    "choice1": "Eu sou verde",
+    "choice2": "Eu sou um livro",
+    "choice3": "Ela é verde",
+    "choice4": "Ele é azul",
+    "answer": 1
+  },
+  {
+    "question": "Fill in the blank 'Ele é __'      (He is a man, in english)",
+    "choice1": "uma mulher",
+    "choice2": "um homem",
+    "choice3": "uma bola",
+    "choice4": "uma laranja",
+    "answer": 2
+  },
+  {
+    "question": "Translate 'azul' to english.",
+    "choice1": "red",
+    "choice2": "blue",
+    "choice3": "dog",
+    "choice4": "ball",
+    "answer": 2
+  },
+  {
+    "question": "How do you say 'he is'",
+    "choice1": "ele é",
+    "choice2": "ela é",
+    "choice3": "nao sou",
+    "choice4": "a bola",
+    "answer": 1
+  },
+  {
+    "question": "Fill in the blank 'Ela é __'      (She is a woman, in english)",
+    "choice1": "uma mulher",
+    "choice2": "um homem",
+    "choice3": "uma cebola",
+    "choice4": "um carro",
+    "answer": 1
+  },
+  {
+    "question": "How do you say 'I am green'",
+    "choice1": "Eu sou verde",
+    "choice2": "Eu sou um livro",
+    "choice3": "Ela é verde",
+    "choice4": "Ele é azul",
+    "answer": 1
+  },
+  {
+    "question": "Fill in the blank 'Ele é __'      (He is a man, in english)",
+    "choice1": "uma mulher",
+    "choice2": "um homem",
+    "choice3": "uma bola",
+    "choice4": "uma laranja",
+    "answer": 2
+  }
+]

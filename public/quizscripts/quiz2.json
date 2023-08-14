@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Translate 'Mulher' to english.",
+    "choice1": "Man",
+    "choice2": "Woman",
+    "choice3": "Dog",
+    "choice4": "Ball",
+    "answer": 2
+  },
+  {
+    "question": "How do you say 'I'",
+    "choice1": "eu",
+    "choice2": "ela",
+    "choice3": "oi",
+    "choice4": "nao",
+    "answer": 1
+  },
+  {
+    "question": "Fill in the blank '__ sou'      (I am, in english)",
+    "choice1": "Oi",
+    "choice2": "Tchau",
+    "choice3": "Nao",
+    "choice4": "Eu",
+    "answer": 4
+  },
+  {
+    "question": "How do you say 'am'",
+    "choice1": "sou",
+    "choice2": "nao",
+    "choice3": "sim",
+    "choice4": "eu",
+    "answer": 1
+  },
+  {
+    "question": "Say 'I am a man'",
+    "choice1": "Eu sou um homem",
+    "choice2": "Eu sou uma mulher",
+    "choice3": "Eu sou um carro",
+    "choice4": "Eu sou um gato",
+    "answer": 1
+  },
+  {
+    "question": "Translate 'Mulher' to english.",
+    "choice1": "Man",
+    "choice2": "Woman",
+    "choice3": "Dog",
+    "choice4": "Ball",
+    "answer": 2
+  },
+  {
+    "question": "How do you say 'I'",
+    "choice1": "eu",
+    "choice2": "ela",
+    "choice3": "oi",
+    "choice4": "nao",
+    "answer": 1
+  },
+  {
+    "question": "Fill in the blank '__ sou'      (I am, in english)",
+    "choice1": "Oi",
+    "choice2": "Tchau",
+    "choice3": "Nao",
+    "choice4": "Eu",
+    "answer": 4
+  },
+  {
+    "question": "How do you say 'am'",
+    "choice1": "sou",
+    "choice2": "nao",
+    "choice3": "sim",
+    "choice4": "eu",
+    "answer": 1
+  },
+  {
+    "question": "Say 'I am a man'",
+    "choice1": "Eu sou um homem",
+    "choice2": "Eu sou uma mulher",
+    "choice3": "Eu sou um carro",
+    "choice4": "Eu sou um gato",
+    "answer": 1
+  }
+]

@@ -1,0 +1,138 @@
+.sticky {
+  margin-left: 20%;
+  margin-right: 20%;
+  position: sticky;
+  top: 0px;
+}
+
+.container-sm {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 80rem;
+  margin: 0 auto;
+}
+
+.container-sm > * {
+  max-width: 50%;
+}
+
+h2#question {
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+.choice_box {
+  display: flex;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  border: solid rgba(144, 35, 233, 0.336);
+  border-width: 1px 2px 4px;
+  background-color: rgba(94, 35, 233, 0.616);
+  color: white;
+  border-radius: 50px;
+}
+
+.choice_box:hover {
+  cursor: pointer;
+  box-shadow: 0px 4px 5px 0px rgba(64, 50, 112, 0.842);
+  transform: translateY(-0.2rem);
+  transition: 0.13s;
+}
+
+.choice_content {
+  text-align: center;
+  width: 100%;
+  padding: 1rem;
+  font-size: 1.5rem;
+}
+
+.progressbar {
+  border-radius: 20px;
+}
+
+/* Selected Answer Classes */
+
+.correct {
+  background-color: green;
+}
+
+.incorrect {
+  background-color: red;
+}
+
+/* HUD */
+
+#hud {
+  display: flex;
+  justify-content: center;
+  position: static;
+  text-align: center;
+}
+
+.hud_prefix {
+  background-color: rgba(40, 2, 98, 0.593);
+  padding: 1rem 1rem;
+  border-radius: 20px;
+  color: white;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.hud_text {
+  text-align: center;
+  font-size: 5rem;
+  font-weight: bold;
+  color: rgb(94, 35, 233);
+}
+
+#submissionScreen {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  top: 0%;
+  left: 50%;
+  transform: translate(-50%, 50%);
+  height: 500px;
+  width: 500px;
+  border: 1px solid rgba(0, 0, 0, 0.18);
+  border-radius: 10px;
+  box-shadow: 0px 4px 5px 0px rgba(64, 50, 112, 0.842);
+  background-color: white;
+  visibility: hidden;
+}
+
+#submissionContent {
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+}
+
+.playerMessage {
+  font-size: 2.3rem;
+  font-weight: bold;
+}
+
+#finalScoreText {
+  text-align: center;
+  font-size: 5rem;
+  font-weight: bold;
+  color: rgb(94, 35, 233);
+}
+
+#finalTimeText {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: bold;
+  color: rgb(94, 35, 233);
+}
+
+#submitQuiz {
+  height: 100px;
+  font-size: 2.5rem;
+  font-weight: bold;
+  justify-content: center;
+  align-items: center;
+}

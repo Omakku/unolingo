@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Translate 'vermelho' to english.",
+    "choice1": "red",
+    "choice2": "blue",
+    "choice3": "dog",
+    "choice4": "ball",
+    "answer": 1
+  },
+  {
+    "question": "How do you say 'Yes I am'",
+    "choice1": "Sim ela vai",
+    "choice2": "Sim eu sou",
+    "choice3": "Sim ele era",
+    "choice4": "Sim ela era",
+    "answer": 2
+  },
+  {
+    "question": "How do you say 'Good Night'?",
+    "choice1": "Bom dia",
+    "choice2": "Boa noite",
+    "choice3": "Boa tarde",
+    "choice4": "Eu vou",
+    "answer": 2
+  },
+  {
+    "question": "How do you say 'Good Afternoon'?",
+    "choice1": "Bom dia",
+    "choice2": "Boa noite",
+    "choice3": "Boa tarde",
+    "choice4": "Ela vai",
+    "answer": 1
+  },
+  {
+    "question": "Fill in the blank 'Tenha um ____' (I have a good day, in english)",
+    "choice1": "tenho",
+    "choice2": "tem",
+    "choice3": "ciao",
+    "choice4": "verde",
+    "answer": 1
+  },
+  {
+    "question": "Translate 'vermelho' to english.",
+    "choice1": "red",
+    "choice2": "blue",
+    "choice3": "dog",
+    "choice4": "ball",
+    "answer": 1
+  },
+  {
+    "question": "How do you say 'Yes I am'",
+    "choice1": "Sim ela vai",
+    "choice2": "Sim eu sou",
+    "choice3": "Sim ele era",
+    "choice4": "Sim ela era",
+    "answer": 2
+  },
+  {
+    "question": "How do you say 'Good Night'?",
+    "choice1": "Bom dia",
+    "choice2": "Boa noite",
+    "choice3": "Boa tarde",
+    "choice4": "Eu vou",
+    "answer": 2
+  },
+  {
+    "question": "How do you say 'Good Afternoon'?",
+    "choice1": "Bom dia",
+    "choice2": "Boa noite",
+    "choice3": "Boa tarde",
+    "choice4": "Ela vai",
+    "answer": 1
+  },
+  {
+    "question": "Fill in the blank 'Tenha um ____' (I have a good day, in english)",
+    "choice1": "tenho",
+    "choice2": "tem",
+    "choice3": "ciao",
+    "choice4": "verde",
+    "answer": 1
+  }
+]

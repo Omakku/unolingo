@@ -1,0 +1,82 @@
+[
+  {
+    "question": "How do you say 'I eat'?",
+    "choice1": "eu sou",
+    "choice2": "eu como",
+    "choice3": "ela é",
+    "choice4": "ele come",
+    "answer": 2
+  },
+  {
+    "question": "How do you say 'She eats'?",
+    "choice1": "Ela come",
+    "choice2": "Ele come",
+    "choice3": "Nao como",
+    "choice4": "Eu como",
+    "answer": 1
+  },
+  {
+    "question": "How do you say 'I eat bread'?",
+    "choice1": "Eu como pão",
+    "choice2": "Ela come pão",
+    "choice3": "Eu sou pão",
+    "choice4": "Eu nao como pão",
+    "answer": 1
+  },
+  {
+    "question": "How do you say 'he was'?",
+    "choice1": "ele era",
+    "choice2": "ela era",
+    "choice3": "eu era",
+    "choice4": "eles eram",
+    "answer": 1
+  },
+  {
+    "question": "How do you say 'An apple'?",
+    "choice1": "Uma maçã",
+    "choice2": "Uma laranja",
+    "choice3": "Um ovo",
+    "choice4": "Um menino",
+    "answer": 1
+  },
+  {
+    "question": "How do you say 'I eat'?",
+    "choice1": "eu sou",
+    "choice2": "eu como",
+    "choice3": "ela é",
+    "choice4": "ele come",
+    "answer": 2
+  },
+  {
+    "question": "How do you say 'She eats'?",
+    "choice1": "Ela come",
+    "choice2": "Ele come",
+    "choice3": "Nao como",
+    "choice4": "Eu como",
+    "answer": 1
+  },
+  {
+    "question": "How do you say 'I eat bread'?",
+    "choice1": "Eu como pão",
+    "choice2": "Ela come pão",
+    "choice3": "Eu sou pão",
+    "choice4": "Eu nao como pão",
+    "answer": 1
+  },
+  {
+    "question": "How do you say 'he was'?",
+    "choice1": "ele era",
+    "choice2": "ela era",
+    "choice3": "eu era",
+    "choice4": "eles eram",
+    "answer": 1
+  },
+  {
+    "question": "How do you say 'An apple'?",
+    "choice1": "Uma maçã",
+    "choice2": "Uma laranja",
+    "choice3": "Um ovo",
+    "choice4": "Um menino",
+    "answer": 1
+  }
+]

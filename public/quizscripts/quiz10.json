@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Translate 'Bye' and 'good morning' to portuguese",
+    "choice1": "Amigo, tchau",
+    "choice2": "Oi, menino",
+    "choice3": "Tchau, Bom dia",
+    "choice4": "Oi, Tchau",
+    "answer": 3
+  },
+  {
+    "question": "Fill in the blank! ____ e uma menina. (A boy and a girl)",
+    "choice1": "Um menino",
+    "choice2": "Uma menino",
+    "choice3": "Dois meninos",
+    "choice4": "Um gato",
+    "answer": 1
+  },
+  {
+    "question": "Translate 'Eu tenho um...' to english",
+    "choice1": "I have a...",
+    "choice2": "She has a",
+    "choice3": "They have a...",
+    "choice4": "Why is she....",
+    "answer": 1
+  },
+  {
+    "question": "Fill in the blank! O menino ____ . (The boy eats apples)",
+    "choice1": "bebe leite",
+    "choice2": "como pão",
+    "choice3": "come maçãs",
+    "choice4": "come laranjas",
+    "answer": 3
+  },
+  {
+    "question": "Translate 'Ela tem um...' to english",
+    "choice1": "She has a...",
+    "choice2": "She has them...",
+    "choice3": "He has them...",
+    "choice4": "He is one....",
+    "answer": 1
+  },
+  {
+    "question": "Translate 'Bye' and 'good morning' to portuguese",
+    "choice1": "Amigo, tchau",
+    "choice2": "Oi, menino",
+    "choice3": "Tchau, Bom dia",
+    "choice4": "Oi, Tchau",
+    "answer": 3
+  },
+  {
+    "question": "Fill in the blank! ____ e uma menina. (A boy and a girl)",
+    "choice1": "Um menino",
+    "choice2": "Uma menino",
+    "choice3": "Dois meninos",
+    "choice4": "Um gato",
+    "answer": 1
+  },
+  {
+    "question": "Translate 'Eu tenho um...' to english",
+    "choice1": "I have a...",
+    "choice2": "She has a",
+    "choice3": "They have a...",
+    "choice4": "Why is she....",
+    "answer": 1
+  },
+  {
+    "question": "Fill in the blank! O menino ____ . (The boy eats apples)",
+    "choice1": "bebe leite",
+    "choice2": "como pão",
+    "choice3": "come maçãs",
+    "choice4": "come laranjas",
+    "answer": 3
+  },
+  {
+    "question": "Translate 'Ela tem um...' to english",
+    "choice1": "She has a...",
+    "choice2": "She has them...",
+    "choice3": "He has them...",
+    "choice4": "He is one....",
+    "answer": 1
+  }
+]

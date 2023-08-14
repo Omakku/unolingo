@@ -1,0 +1,68 @@
+/* The gabagool */
+html {
+  height: 100%;
+}
+
+body {
+  background: rgb(255, 105, 97);
+  background: linear-gradient(
+    0deg,
+    rgba(253, 187, 45, 1) 0,
+    rgba(255, 105, 97, 1) 100%
+  );
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container-fluid {
+  font-weight: bold;
+  font-family: "Raleway", sans-serif;
+}
+
+#somethingid {
+  font-size: 1.5rem;
+}
+
+#big_column {
+  width: 35%;
+}
+#container-fluid-id {
+  padding-top: 10%;
+  font-family: "Raleway", sans-serif;
+}
+
+.horizontal_bar {
+  margin-top: 5px;
+  margin-bottom: 20px;
+  width: 30fvw;
+  height: 5px;
+  background-color: rgba(0, 0, 0, 0.446);
+  border-radius: 10px;
+}
+
+.submit_btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.submit_btn button {
+  opacity: 0.8;
+  border: none;
+  outline: none;
+  height: 40px;
+  width: 180px;
+  background: rgb(223, 141, 103);
+  color: white;
+  font-size: 16px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+/* Submit button hover design*/
+.submit_btn button:hover {
+  cursor: pointer;
+  background: brown;
+  color: black;
+  transition: 0.3s;
+}

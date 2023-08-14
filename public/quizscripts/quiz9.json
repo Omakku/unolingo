@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Say 'no'",
+    "choice1": "não",
+    "choice2": "sim",
+    "choice3": "por que",
+    "choice4": "bom",
+    "answer": 1
+  },
+  {
+    "question": "Say 'I drink' in portuguese ",
+    "choice1": "Eu bebo",
+    "choice2": "Ela bebe",
+    "choice3": "Ela bebe água",
+    "choice4": "O menino",
+    "answer": 1
+  },
+  {
+    "question": "Say 'an orange'",
+    "choice1": "uma laranja",
+    "choice2": "um carro",
+    "choice3": "uma menina",
+    "choice4": "eu sou laranja",
+    "answer": 1
+  },
+  {
+    "question": "Translate 'Eu como laranjas' to english",
+    "choice1": "She needs some milk",
+    "choice2": "He drinks milk",
+    "choice3": "I drink water",
+    "choice4": "I eat oranges",
+    "answer": 4
+  },
+  {
+    "question": "Translate 'Eu sou um homem' to english",
+    "choice1": "I am a man",
+    "choice2": "I am a woman",
+    "choice3": "She will be there",
+    "choice4": "He is a boy",
+    "answer": 1
+  },
+  {
+    "question": "Say 'no'",
+    "choice1": "não",
+    "choice2": "sim",
+    "choice3": "por que",
+    "choice4": "bom",
+    "answer": 1
+  },
+  {
+    "question": "Say 'I drink' in portuguese ",
+    "choice1": "Eu bebo",
+    "choice2": "Ela bebe",
+    "choice3": "Ela bebe água",
+    "choice4": "O menino",
+    "answer": 1
+  },
+  {
+    "question": "Say 'an orange'",
+    "choice1": "uma laranja",
+    "choice2": "um carro",
+    "choice3": "uma menina",
+    "choice4": "eu sou laranja",
+    "answer": 1
+  },
+  {
+    "question": "Translate 'Eu como laranjas' to english",
+    "choice1": "She needs some milk",
+    "choice2": "He drinks milk",
+    "choice3": "I drink water",
+    "choice4": "I eat oranges",
+    "answer": 4
+  },
+  {
+    "question": "Translate 'Eu sou um homem' to english",
+    "choice1": "I am a man",
+    "choice2": "I am a woman",
+    "choice3": "She will be there",
+    "choice4": "He is a boy",
+    "answer": 1
+  }
+]

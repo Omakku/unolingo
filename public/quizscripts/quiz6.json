@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Translate 'vermelho' to english.",
+    "choice1": "red",
+    "choice2": "blue",
+    "choice3": "dog",
+    "choice4": "ball",
+    "answer": 1
+  },
+  {
+    "question": "How do you say 'she was'",
+    "choice1": "ele é",
+    "choice2": "ela era",
+    "choice3": "ele era",
+    "choice4": "eu sou ele",
+    "answer": 2
+  },
+  {
+    "question": "Translate this sentence to portuguese: 'I eat an apple'",
+    "choice1": "uma sou um mulher",
+    "choice2": "um sou um homem",
+    "choice3": "eu tenho uma cebola",
+    "choice4": "eu como uma maçã ",
+    "answer": 1
+  },
+  {
+    "question": "How do you say 'I have'",
+    "choice1": "Eu tenho",
+    "choice2": "Eu tem",
+    "choice3": "Ela tem",
+    "choice4": "Eu nao tenho",
+    "answer": 1
+  },
+  {
+    "question": "Fill in the blank 'Eu __ uma maçã' (I have an apple, in english)",
+    "choice1": "tenho",
+    "choice2": "tem",
+    "choice3": "tchau",
+    "choice4": "verde",
+    "answer": 1
+  },
+  {
+    "question": "Translate 'vermelho' to english.",
+    "choice1": "red",
+    "choice2": "blue",
+    "choice3": "dog",
+    "choice4": "ball",
+    "answer": 1
+  },
+  {
+    "question": "How do you say 'she was'",
+    "choice1": "ele é",
+    "choice2": "ela era",
+    "choice3": "ele era",
+    "choice4": "eu sou ele",
+    "answer": 2
+  },
+  {
+    "question": "Translate this sentence to portuguese: 'I eat an apple'",
+    "choice1": "uma sou um mulher",
+    "choice2": "um sou um homem",
+    "choice3": "eu tenho uma cebola",
+    "choice4": "eu como uma maçã ",
+    "answer": 1
+  },
+  {
+    "question": "How do you say 'I have'",
+    "choice1": "Eu tenho",
+    "choice2": "Eu tem",
+    "choice3": "Ela tem",
+    "choice4": "Eu nao tenho",
+    "answer": 1
+  },
+  {
+    "question": "Fill in the blank 'Eu __ uma maçã' (I have an apple, in english)",
+    "choice1": "tenho",
+    "choice2": "tem",
+    "choice3": "tchau",
+    "choice4": "verde",
+    "answer": 1
+  }
+]

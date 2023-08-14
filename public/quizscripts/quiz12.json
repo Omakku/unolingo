@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Translate 'He is there' and 'She is here' to portuguese",
+    "choice1": "Ele está lá : Ela está aqui",
+    "choice2": "Ela está lá : Ele está aqui",
+    "choice3": "Eu estou lá : Ela está aqui",
+    "choice4": "Ele estava lá : Ela está aqui",
+    "answer": 1
+  },
+  {
+    "question": "Fill in the blank! Um homem _____ ela. (A man speaks to her)",
+    "choice1": "fala com",
+    "choice2": "com fala",
+    "choice3": "fala inglês",
+    "choice4": "fala por",
+    "answer": 1
+  },
+  {
+    "question": "Translate 'Eu falo inglês' to english",
+    "choice1": "I can't speak",
+    "choice2": "I could speak english",
+    "choice3": "I speak portuguese",
+    "choice4": "I speak english",
+    "answer": 4
+  },
+  {
+    "question": "Fill in the blank! Eu ____ inglês. (I speak english)",
+    "choice1": "Nao sei",
+    "choice2": "Sei",
+    "choice3": "Falo",
+    "choice4": "Falei",
+    "answer": 3
+  },
+  {
+    "question": "Translate 'The boy speaks to the woman' to portuguese",
+    "choice1": "O menino fala com a mulher",
+    "choice2": "O homem fala com a mulher",
+    "choice3": "Eles falam com a mulher",
+    "choice4": "Estamos com a mulher",
+    "answer": 1
+  },
+  {
+    "question": "Translate 'He is there' and 'She is here' to portuguese",
+    "choice1": "Ele está lá : Ela está aqui",
+    "choice2": "Ela está lá : Ele está aqui",
+    "choice3": "Eu estou lá : Ela está aqui",
+    "choice4": "Ele estava lá : Ela está aqui",
+    "answer": 1
+  },
+  {
+    "question": "Fill in the blank! Um homem _____ ela. (A man speaks to her)",
+    "choice1": "fala com",
+    "choice2": "com fala",
+    "choice3": "fala inglês",
+    "choice4": "fala por",
+    "answer": 1
+  },
+  {
+    "question": "Translate 'Eu falo inglês' to english",
+    "choice1": "I can't speak",
+    "choice2": "I could speak english",
+    "choice3": "I speak portuguese",
+    "choice4": "I speak english",
+    "answer": 4
+  },
+  {
+    "question": "Fill in the blank! Eu ____ inglês. (I speak english)",
+    "choice1": "Nao sei",
+    "choice2": "Sei",
+    "choice3": "Falo",
+    "choice4": "Falei",
+    "answer": 3
+  },
+  {
+    "question": "Translate 'The boy speaks to the woman' to portuguese",
+    "choice1": "O menino fala com a mulher",
+    "choice2": "O homem fala com a mulher",
+    "choice3": "Eles falam com a mulher",
+    "choice4": "Estamos com a mulher",
+    "answer": 1
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is 'Um homem' in english?",
+    "choice1": "A Cat",
+    "choice2": "A Dog",
+    "choice3": "A Woman",
+    "choice4": "A Man",
+    "answer": 4
+  },
+  {
+    "question": "What is 'Uma mulher' in english?",
+    "choice1": "A woman",
+    "choice2": "A Man",
+    "choice3": "A Dog",
+    "choice4": "A Cat",
+    "answer": 1
+  },
+  {
+    "question": "How do you say 'a'?",
+    "choice1": "um",
+    "choice2": "ele",
+    "choice3": "sim",
+    "choice4": "nao",
+    "answer": 1
+  },
+  {
+    "question": "What is 'o menino' in english?",
+    "choice1": "The man",
+    "choice2": "The house",
+    "choice3": "The woman",
+    "choice4": "The boy",
+    "answer": 4
+  },
+  {
+    "question": "Translate 'menino' to english.",
+    "choice1": "Cat",
+    "choice2": "Girl",
+    "choice3": "Boy",
+    "choice4": "Dad",
+    "answer": 3
+  },
+  {
+    "question": "What is 'Um homem' in english?",
+    "choice1": "A Cat",
+    "choice2": "A Dog",
+    "choice3": "A Woman",
+    "choice4": "A Man",
+    "answer": 4
+  },
+  {
+    "question": "What is 'Uma mulher' in english?",
+    "choice1": "A woman",
+    "choice2": "A Man",
+    "choice3": "A Dog",
+    "choice4": "A Cat",
+    "answer": 1
+  },
+  {
+    "question": "How do you say 'a'?",
+    "choice1": "um",
+    "choice2": "ele",
+    "choice3": "sim",
+    "choice4": "nao",
+    "answer": 1
+  },
+  {
+    "question": "What is 'o menino' in english?",
+    "choice1": "The man",
+    "choice2": "The house",
+    "choice3": "The woman",
+    "choice4": "The boy",
+    "answer": 4
+  },
+  {
+    "question": "Translate 'menino' to english.",
+    "choice1": "Cat",
+    "choice2": "Girl",
+    "choice3": "Boy",
+    "choice4": "Dad",
+    "answer": 3
+  }
+]

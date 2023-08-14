@@ -1,0 +1,82 @@
+/* The gabagool */
+html {
+  height: 100%;
+}
+
+.container {
+  padding-top: 10%;
+  background: rgb(255, 105, 97);
+  background: linear-gradient(
+    0deg,
+    rgba(253, 187, 45, 1) 0,
+    rgba(255, 105, 97, 1) 100%
+  );
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: "Raleway", sans-serif;
+}
+
+.container-fluid {
+  font-weight: bold;
+  font-family: "Raleway", sans-serif;
+  font-size: 1.5rem;
+}
+
+img#avatar {
+  border-radius: 100px;
+}
+
+div#rank_divider {
+  margin-top: 30px;
+  width: 90px;
+  height: 110px;
+  background-color: rgba(255, 255, 255, 0.147);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+img#rank_image {
+  height: 90px;
+  width: 70px;
+}
+
+.card-text {
+  padding-top: 30px;
+  padding-left: 30px;
+  vertical-align: center;
+  font-weight: bold;
+}
+
+img#rank_image {
+  padding-bottom: 20px;
+  border-radius: 100px;
+}
+
+.horizontal_bar {
+  margin-top: 40px;
+  width: 650px;
+  height: 5px;
+  background-color: ghostwhite;
+  border-radius: 10px;
+}
+
+.bars {
+  padding: 50px;
+  text-align: center;
+}
+
+#someText {
+  font-weight: bold;
+}
+
+.massive-font {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.medium-font {
+  font-size: 15px;
+  font-weight: bold;
+}

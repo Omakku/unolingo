@@ -1,133 +1,207 @@
-
 /* The gabagool */
-html{
-    height: 100%;
+html {
+  height: 100%;
 }
 .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
-    background: url(background.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    font-family: 'Arimo', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background: url(background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: "Arimo", sans-serif;
 }
 
-header{
-    position: fixed;
-    top: 50px;
-    font-size: 100px;
-    color: aliceblue;
-    opacity: 70%;
-    font-family: 'Arimo', sans-serif;
+/* Large Unolingo Text Landing Page */
+header {
+  position: fixed;
+  top: 150px;
+  font-size: 100px;
+  color: aliceblue;
+  opacity: 70%;
+  font-family: "Arimo", sans-serif;
 }
 
-h2{
-    font-size: 40px;
-    font-family:'Raleway', sans-serif;
+.button_box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.landing_btn {
+  margin-left: 30px;
+  margin-right: 30px;
+  border: none;
+  outline: none;
+  height: 60px;
+  width: 280px;
+  font-size: 14px;
+  font-family: "Raleway", sans-serif;
+  font-weight: bold;
+  border: 1px solid rgba(0, 0, 0, 0.198);
+  border-radius: 5px;
+  box-shadow: 0px 10px 15px rgba(10, 9, 9, 0.531);
+  opacity: 0.9;
+}
+
+#landing_signup_btn {
+  background: snow;
+  color: rgb(39, 2, 128);
+}
+
+#landing_login_btn {
+  background: rgb(39, 2, 128);
+  color: ghostwhite;
+}
+
+#landing_signup_btn:hover {
+  cursor: pointer;
+  background: rgb(39, 2, 128);
+  text-decoration: underline;
+  color: ghostwhite;
+  box-shadow: 0px 25px 20px rgba(10, 9, 9, 0.876);
+  transform: translateY(-0.2rem);
+  transition: 0.5s;
+}
+
+#landing_login_btn:hover {
+  cursor: pointer;
+  text-decoration: underline;
+  background: snow;
+  color: rgb(39, 2, 128);
+  box-shadow: 0px 25px 20px rgba(10, 9, 9, 0.876);
+  transform: translateY(-0.2rem);
+  transition: 0.5s;
 }
 
 /*Main Box*/
-.centerform{
-    height: 450px;
-    width: 320px;
-    background: rgb(255,255,255);
-    background: linear-gradient(180deg, rgba(255,255,255,1) 80px, rgba(224,224,224,1) 200%);
-    color: black;
-    box-sizing: border-box;
-    border-radius: 12px;
+.centerform {
+  padding-top: 20px;
+  height: 550px;
+  width: 320px;
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 80px,
+    rgba(224, 224, 224, 1) 200%
+  );
+  color: black;
+  box-sizing: border-box;
+  border-radius: 12px;
 }
 
 /*User name, email, and password input box icons*/
-.inputWithIcon{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 10px;
+.inputWithIcon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
 }
-.inputWithIcon i{
-    position: relative;
-    right: 245px;
-    color: gray;
+.inputWithIcon i {
+  position: relative;
+  right: 210px;
+  color: gray;
 }
 
-/*Big Welcome Text*/
-h1{
-    text-align: center;
-    font-size: 38px;
+/*Big Top Text*/
+h1 {
+  text-align: center;
+  font-size: 38px;
 }
 
 /*Input boxes font and spacing*/
-#login input, #signup input{
-    font-family: 'Raleway', sans-serif;
+#login input,
+#signup input {
+  font-family: "Raleway", sans-serif;
 }
 
 /*Remove outline when input box is selected */
-#login input:focus, #signup input:focus{
-    outline: none;
+#login input:focus,
+#signup input:focus {
+  outline: none;
 }
 
 /* Hide placeholder text when input box is selectedf */
-#login input:focus::placeholder{
+#login input:focus::placeholder {
   color: transparent;
 }
 
 /*User name, email, password input boxes design*/
-input[type="text"], input[type="password"], input[type="email"]{
-    border: none;
-    background: rgba(192, 192, 192, 0.404);
-    height: 40px;
-    width: 220px;
-    color: black;
-    padding-left: 35px;
-    font-size: 13px;
-    border-radius: 5px;
+input[type="text"],
+input[type="password"],
+input[type="email"] {
+  border: none;
+  background: rgba(192, 192, 192, 0.404);
+  height: 45px;
+  width: 220px;
+  color: black;
+  margin-left: 20px;
+  padding-left: 35px;
+  font-size: 13px;
+  border-radius: 5px;
 }
 
-/* Submit button design*/
-.submit_btn{
-    padding-top: 40px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.blankspace {
+  height: 93px;
+}
+
+/* Submit button DIV BOX */
+.submit_btn {
+  padding-top: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* Actual Submit button design */
+.submit_btn button {
+  opacity: 0.8;
+  border: none;
+  outline: none;
+  height: 40px;
+  width: 180px;
+  background: rgb(223, 141, 103);
+  color: white;
+  font-size: 16px;
+  border-radius: 5px;
 }
 
 /* Submit button hover design*/
-.submit_btn button:hover{
-    cursor: pointer;
-    background: brown;
-    color:black;
-    transition: .3s;
-}
-
-.submit_btn button{
-    opacity: 0.8;
-    border: none;
-    outline: none;
-    height: 40px;
-    width: 180px;
-    background: rgb(223, 141, 103);
-    color: white;
-    font-size: 16px;
-    border-radius: 5px;
+.submit_btn button:hover {
+  cursor: pointer;
+  background: brown;
+  color: black;
+  transition: 0.3s;
 }
 
 /* Not a member & already a member text */
-#bottom{
-    padding-top: 20px;
-    text-align: center;
-    color: darkgrey;
-    font-size: 14px;
+#bottom {
+  padding-top: 20px;
+  text-align: center;
+  color: darkgrey;
+  font-size: 14px;
 }
 
 /* Sign up now link */
-#login a, #signup a{
-    text-decoration: none;
-    font-size: 14px;
-    line-height: 20px;
-    color: darkgrey;
+#login a,
+#signup a {
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 20px;
+  color: darkgrey;
 }
-#login a:hover, #signup a:hover{
-    color:brown;
+#login a:hover,
+#signup a:hover {
+  color: brown;
+}
+
+h4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+div#alert_box {
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
