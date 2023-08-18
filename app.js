@@ -5,7 +5,6 @@ const dotenv = require("dotenv");
 const cookieParser = require("cookie-parser");
 const bodyParser = require("body-parser");
 const flash = require("connect-flash");
-const session = require("express-session");
 
 dotenv.config({ path: "./.env" });
 
