@@ -53,14 +53,7 @@ app.set("view engine", "ejs");
 app.use(flash());
 
 //----- Use express sessions
-app.use(
-  session({
-    secret: "lebron james",
-    resave: false,
-    saveUninitialized: true,
-    cookie: { secure: true },
-  })
-);
+
 
 //-----Test Connection to SQL Database
 db.connect((error) => {
